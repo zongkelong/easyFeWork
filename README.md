@@ -11,7 +11,7 @@
 #### web 框架
 
 | 框架 | 简介 | 地址 |
-| --- | --- | --- |
+| --------- | --- | --- |
 | React | 最流行的前端界面库 | [React 官方中文文档 (reactjs.org)](https://zh-hans.reactjs.org/) |
 | Vue2 | 流行的构建用户界面库，仅次于 React | [Vue.js官方文档 (vuejs.org)](https://cn.vuejs.org/v2/guide/) |
 | Vue3 | Vue2 的最新升级版，引入了一些新特性，用 Ts 重构 | [Vue3官方文档 (vuejs.org)](https://v3.cn.vuejs.org/guide/introduction.html) |
