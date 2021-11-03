@@ -28,3 +28,17 @@
 |[glfx.js](http://evanw.github.io/glfx.js/)|glfx.js 是一个提供了广泛功能的强大工具。不同于 Filtrr2 和 CamanJS，它遵守 WebGL 标准。非常赞的一点是，图像处理操作在显卡完成，因此可以实时运行。它主要的缺点是只支持最新版本的浏览器。除了基本的调节功能和炫酷效果外，glfx.js 提供了（模糊和包装功能）的列表。这样可以通过调整不同的参数来创建唯一的结果。|
 |[Grafi.js](https://github.com/grafijs/grafi)|正如在它项目主页上所说的，grafi.js 是一个鼓励用户去了解图像处理是如何工作的库。源代码可以在 github 找到，并且它里面的很多注释，可以帮助你理解每个函数到底发生了什么。如果你在寻找一些提供更高级图像操作的库，也许 grafi.js 并不能够满足你的需求，但它可以让你了解图像处理是如何执行然后得到满意效果的。注意，涉及改变图像的方向或大小的操作不是由 grafi.js 提供的|
 |[Jimp](https://github.com/oliver-moran/jimp)|像 CamanJS 一样，可以用于 NodeJS 和浏览器中，他不需要使用 HTML 元素（img或者canvas）,但需要从路径或URL读取图像。Jimp 提供了颜色调节和一些效果的函数清单。当然也提供了一些你可能在其他库错过的操作，比如调整尺寸，缩放以及旋转图像。图片也可以手动或自动裁减。在 Node 中使用，Jimp 则是一个非常强大的工具，可以让你在多个文件上执行链接操作，并储存修改的图像。|
+
+#### 数据可视化
+
+| 框架 | 简介 | 地址 |
+| --- | --- | --- |
+| Echarts | 最常见的可视化图表库 | [Echarts官方中文文档](https://echarts.apache.org/zh/index.html) |
+| G2 | Antv团队推出的可视化图表库，采用数据与配置分离+链式函数调用方法 | [G2官方文档](http://antv-2018.alipay.com/zh-cn/g2/3.x/index.html) |
+
+#### 工具函数
+
+| 框架 | 简介 | 地址 |
+| --- | --- | --- |
+| lodash | 目前最常用的工具函数集 | [Lodash](https://lodash.com/)  |
+
