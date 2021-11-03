@@ -23,7 +23,7 @@
 | 框架 | 简介 | 地址 |
 | --- | --- | --- |
 | Echarts | 最常见的可视化图表库 | [Echarts官方中文文档](https://echarts.apache.org/zh/index.html) |
-| G2 | Antv团队推出的可视化图表库，采用数据与配置分离+链式函数调用方法 | [G2官方文档 (vuejs.org)](http://antv-2018.alipay.com/zh-cn/g2/3.x/index.html) |
+| G2 | Antv团队推出的可视化图表库，采用数据与配置分离+链式函数调用方法 | [G2官方文档](http://antv-2018.alipay.com/zh-cn/g2/3.x/index.html) |
 
 #### 工具函数
 
